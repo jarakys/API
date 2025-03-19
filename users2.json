@@ -1,6 +1,6 @@
 {
     "page": 3,
-    "users": [
+    "data": [
             { "id": 11, "name": "Seraph", "profile_picture_url": "https://i.pravatar.cc/300?u=11" },
             { "id": 12, "name": "Sati", "profile_picture_url": "https://i.pravatar.cc/300?u=12" },
             { "id": 13, "name": "Merovingian", "profile_picture_url": "https://i.pravatar.cc/300?u=13" },

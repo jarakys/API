@@ -1,6 +1,6 @@
 {
     "page": 1,
-    "users": [
+    "data": [
         { "id": 1, "name": "Neo", "profile_picture_url": "https://i.pravatar.cc/300?u=1" },
         { "id": 2, "name": "Trinity", "profile_picture_url": "https://i.pravatar.cc/300?u=2" },
         { "id": 3, "name": "Morpheus", "profile_picture_url": "https://i.pravatar.cc/300?u=3" },

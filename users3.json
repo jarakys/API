@@ -1,6 +1,6 @@
 {
     "page": 3,
-    "users": [
+    "data": [
       { "id": 21, "name": "Kid", "profile_picture_url": "https://i.pravatar.cc/300?u=21" },
       { "id": 22, "name": "Zee", "profile_picture_url": "https://i.pravatar.cc/300?u=22" },
       { "id": 23, "name": "Mifune", "profile_picture_url": "https://i.pravatar.cc/300?u=23" },
